@@ -1,0 +1,21 @@
+# === Deep Learning ===
+torch>=2.0
+torchvision
+peft                      # LoRA 미세조정
+terratorch                # Prithvi-EO 백본
+
+# numpy는 terratorch와의 호환성 때문에 2.0 미만 필요
+numpy<2.0
+
+# === Remote Sensing / Geospatial ===
+rasterio
+shapely
+scikit-image              # Phase Correlation, SSIM
+
+# === Scientific Computing ===
+scipy                     # Sobel 필터 (엣지 손실)
+matplotlib
+
+# === Utilities ===
+tqdm
+requests                  # CDSE API
