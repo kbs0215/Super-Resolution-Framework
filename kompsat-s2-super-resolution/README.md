@@ -138,10 +138,6 @@ MIT License. 자세한 내용은 [LICENSE](LICENSE) 참조.
 
 ---
 
-## 🙏 감사의 말
-
-GIST 수자원 AI 연구실에서의 원격탐사 연구 경험이 본 프로젝트의 기반이 되었습니다.
-
 ---
 
 **English version:** [README.en.md](README.en.md)
